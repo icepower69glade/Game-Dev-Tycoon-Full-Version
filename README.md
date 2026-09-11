@@ -264,4 +264,4 @@ This repository serves as the official landing page for Game Dev Tycoon. The sof
 **Get the most recent version of Game Dev Tycoon today!**
 
 ---
-**Last updated:** 2026-09-11 19:24:06 UTC
+**Last updated:** 2026-09-11 22:09:55 UTC
